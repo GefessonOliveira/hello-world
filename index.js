@@ -1,1 +1,1 @@
-console.log("Git log")
+console.log("Git flow.")
